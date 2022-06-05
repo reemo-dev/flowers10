@@ -2,7 +2,6 @@
 Light weight dataset for testing purpose
 
 ##  Labels
-- Bauhinia × blakeana  
 - Centaurea cyanus  
 - Chrysanthemum segetum  
 - Echeveria glauca  
@@ -16,5 +15,5 @@ Light weight dataset for testing purpose
 
 ## Array format
 ```
-['Bauhinia × blakeana','Centaurea cyanus','Chrysanthemum segetum','Echeveria glauca', 'Helianthus annuus','Melastoma malabathricum','Rhododendron moulmainense','Rosa laevigata','Solanum wrightii','Thunbergia erecta','Dipteracanthus repens']
+['Centaurea cyanus', 'Chrysanthemum segetum', 'Dipteracanthus repens', 'Echeveria glauca', 'Helianthus annuus', 'Melastoma malabathricum', 'Rhododendron moulmainense', 'Rosa laevigata', 'Solanum wrightii', 'Thunbergia erecta']
 ```
